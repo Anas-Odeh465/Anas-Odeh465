@@ -25,7 +25,7 @@ I am a programmer who combines the logic of **Full-Stack** with the creativity o
 ---
 
 ### 🛸 Featured Works
-* **[Quark-AI]([https://github.com/Anas-Odeh465/Quark-AI](https://quark-ai-sage.vercel.app/QuarkAI))** - *Where React Intelligence meets the Web.*
+* **[Quark-AI-github](https://github.com/Anas-Odeh465/Quark-AI) - [Quark-AI](https://quark-ai-sage.vercel.app/QuarkAI))** - *Where React Intelligence meets the Web.*
 * **[Zenosys](https://github.com/Anas-Odeh465/Zenosys)** - *Precision-engineered technical solutions.*
 * **[Anas Profile](https://github.com/Anas-Odeh465/AnasProfile)** - *My digital identity.*
 
