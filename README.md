@@ -14,12 +14,13 @@ I am a programmer who combines the logic of **Full-Stack** with the creativity o
 
 ### 📊 Engineering Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=github_dark)
 
 ---
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=github_dark)
 
 ---
 
