@@ -20,7 +20,7 @@ I am a programmer who combines the logic of **Full-Stack** with the creativity o
 
 ### 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&cache_seconds=1800)
 
 ---
 
