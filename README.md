@@ -14,9 +14,9 @@ I am a programmer who combines the logic of **Full-Stack** with the creativity o
 
 ### 📊 Engineering Metrics
 
-![Anas Stats](https://github-readme-stats.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888)
+![Anas Stats](https://github-readme-stats-vercel-sigma-five.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=888)
+![Top Languages](https://github-readme-stats-vercel-sigma-five.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=888)
 
 ---
 
