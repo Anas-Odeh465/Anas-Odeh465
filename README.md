@@ -5,10 +5,10 @@
 ---
 
 ### 🌌 About Me
-أنا مبرمج يجمع بين منطق الـ **Full-Stack** وإبداع الـ **AI**. خريج جامعة الحسين بن طلال، وأعمل دائماً على تحويل الأفكار المعقدة إلى أكواد برمجية بسيطة وفعالة.
+I am a programmer who combines the logic of **Full-Stack** with the creativity of **AI**. I always work on turning complex ideas into amazing, simple, and efficient code.
 
 ### 🛠 Tools of Trade
-`React.js` • `Next.js` • `Node.js` • `TypeScript` • `TailwindCSS` • `Python` • `OpenAI API`
+`React.js` • `Next.js` • `Node.js` • `JavaScript` • `TypeScript` • `TailwindCSS` • `Python` • `OpenAI API` • `PostgreSQL` • `Python`
 
 ---
 
