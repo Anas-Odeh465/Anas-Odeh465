@@ -8,20 +8,20 @@
 I am a programmer who combines the logic of **Full-Stack** with the creativity of **AI**. I always work on turning complex ideas into amazing, simple, and efficient code.
 
 ### 🛠 Tools of Trade
-`React.js` • `Next.js` • `Node.js` • `JavaScript` • `TypeScript` • `TailwindCSS` • `Python` • `OpenAI API` • `PostgreSQL` • `Python`
+`React.js` • `Next.js` • `Node.js` • `JavaScript` • `TypeScript` • `TailwindCSS` • `Python` • `OpenAI API` • `PostgreSQL`
 
 ---
 
 ### 📊 Engineering Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888" alt="Anas Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=888" alt="Top Languages" height="150" />
-</p>
+
+![Anas Stats](https://github-readme-stats.vercel.app/api?username=Anas-Odeh465&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Odeh465&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=888)
 
 ---
 
 ### 🛸 Featured Works
-* **[Quark-AI](https://github.com/Anas-Odeh465/Quark-AI)** - *Where Intelligence meets the Web.*
+* **[Quark-AI]([https://github.com/Anas-Odeh465/Quark-AI](https://quark-ai-sage.vercel.app/QuarkAI))** - *Where React Intelligence meets the Web.*
 * **[Zenosys](https://github.com/Anas-Odeh465/Zenosys)** - *Precision-engineered technical solutions.*
 * **[Anas Profile](https://github.com/Anas-Odeh465/AnasProfile)** - *My digital identity.*
 
